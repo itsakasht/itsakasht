@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Akash Thakur a 4th year student from IIT Madras.
+I'm Akash Thakur, a 4th year student from IIT Madras.
 <!--
 **itsakasht/itsakasht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
